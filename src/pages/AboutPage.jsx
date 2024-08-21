@@ -21,7 +21,7 @@ const AboutPage = () => {
             <main className="py-10">
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-12">
-                        <h1 className="text-4xl font-bold text-gray-800">About Us</h1>
+                        <h1 className="text-4xl font-bold text-gray-800">More About Us</h1>
                         <p className="text-gray-600 mt-4">Learn more about our journey and values</p>
                     </div>
 
